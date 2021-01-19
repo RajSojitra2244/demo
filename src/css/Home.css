@@ -1,0 +1,10 @@
+    .loder{
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+      }
+.allbloghome{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

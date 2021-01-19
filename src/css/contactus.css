@@ -1,0 +1,34 @@
+body {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  background: transparent;
+  line-height: 1.6;
+  font-weight: 400;
+  color: #000000;
+  /* background-color: tan; */
+}
+.contactus {
+  justify-content: center;
+  display: flex;
+}
+
+.Cbutton {
+  margin-left: 150px;
+}
+.card {
+  justify-items: center;
+  border-radius: 20px;
+  width: auto;
+}
+.cardtitle {
+  text-align: center;
+}
+.margintop{
+  margin: 50px;
+  margin-top: 10%;
+}
+.messagetype{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 15px;
+}

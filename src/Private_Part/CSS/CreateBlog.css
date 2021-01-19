@@ -1,0 +1,11 @@
+.CreateBlog{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+  .Blogtitle{
+      margin-left: 30%;
+  }
+  .CreateBlogBtn{
+      margin-left: 35%;
+  }

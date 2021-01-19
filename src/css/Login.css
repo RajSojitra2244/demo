@@ -1,0 +1,30 @@
+.card{
+    justify-items: center;
+    border-radius: 20px;
+    /* width: 0rem; */
+
+}
+.cardtitle{
+    text-align: center;
+  }
+p{
+    text-align: center;
+}
+.nextbutton{
+    text-align: center;
+    margin-left: 70%;
+}
+.successimg{
+    height:60%;
+    width: 60%;
+    margin-left: 80px;
+}
+.login{
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+
+}
+.Lbutton{
+    margin-left: 120px;
+}
